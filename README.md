@@ -20,9 +20,3 @@ The user selects an exam date, enters subjects, and specifies how many hours the
 - OpenAI API
 - python-dotenv
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/ai-study-planner.git
-cd ai-study-planner
-pip install -r requirements.txt
